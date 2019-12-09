@@ -16,3 +16,4 @@ export class EinsteinQuoteComponent extends Component {
 		);
 	}
 }
+
